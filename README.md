@@ -76,7 +76,7 @@ Revenue Statistics: Allows the shop owner to track revenue and view statistics b
 
 ### Staff – Core Satff Features 
 
-On-site Ordering: Supports order creation for customers directly at the coffee shop.
+On-site Ordering: Supports order creation for customers directly at the coffee shop
 
  <img width="800" src="https://github.com/user-attachments/assets/1ae3fb8c-9e98-47a2-ba1d-f12d80c41e88" />
 
