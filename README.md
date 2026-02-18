@@ -10,7 +10,7 @@ It provides an intuitive, user-friendly interface and supports future scalabilit
 ## Features
 - User authentication (Shop Owner / Staff / Online Customers)
 - Management of menu, inventory, and revenue
-- Staff management, work shifts, and salary management
+- Staff management, work shifts, and salary management.
 - Support for on-site ordering for in-store customers
 - Online ordering for online customers
 
